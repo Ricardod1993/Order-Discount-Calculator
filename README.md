@@ -9,7 +9,7 @@
 - Copy the code in the method index of the controller test, and try it from another server;
 - If needed, change the url where the service is hosted in the file of the test controller in line 67, function curl_init();
 - In the test controller there are 3 arrays which are commented. Uncomment them one at the time and see the results;
-- The explanation of the results of each example are in the section "Examples";
+- The explanation of each example are in the section "Examples";
 
 
 #### Examples
